@@ -13,4 +13,9 @@ nav:
     - Appropriation: appropriation.md
 theme:
   name: material
+  custom_dir: overrides
   font: false
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
