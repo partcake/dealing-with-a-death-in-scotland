@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "dealing-with-a-death-scotland"
+version = "0.1.0"
+description = "Simple website about the administrative aspects of dealing with a death in Scotland"
+authors = ["tony-stone <tony-stone@users.noreply.github.com>"]
+license = "CC BY-NC-SA 4.0"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+mkdocs = "^1.4.3"
+mkdocs-bibtex = "^2.8.16"
+mkdocs-material = "^9.1.14"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

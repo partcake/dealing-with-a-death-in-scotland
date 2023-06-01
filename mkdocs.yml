@@ -1,0 +1,16 @@
+site_name: Dealing with a death in Scotland
+nav:
+    - Home: index.md
+    - The Plan: plan.md
+    - Getting Started: basics.md
+    - Companies and Partnerships: companies.md
+    - Deceased's Self-Assessment Tax Return: tax_return.md
+    - Banks: banks.md
+    - Inheritance Tax: iht.md
+    - Confirmation: confirmation.md
+    - Irish Assets: irish.md
+    - Varying the Will: iov.md
+    - Appropriation: appropriation.md
+theme:
+  name: material
+  font: false
